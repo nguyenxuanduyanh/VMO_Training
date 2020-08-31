@@ -1,7 +1,6 @@
 const express = require('express');
 const router = express.Router();
 const jwt = require('jsonwebtoken');
-var moment = require('moment');
 //--------------------Dummy Database-----------------------------------
 // users = [];
 
